@@ -13,17 +13,16 @@ const Hero = () => {
               <TypeAnimation
                 className="text-3xl md:text-6xl lg:text-7xl font-bold"
                 sequence={[
-                  // Same substring at the start will only be typed out once, initially
                   "Food",
-                  1000, // wait 1s before replacing "Mice" with "Hamsters"
+                  2000,
                   "Burger",
-                  1000,
+                  2000,
                   "Pizza",
-                  1000,
+                  2000,
                   "Cake",
-                  1000,
+                  2000,
                   "Salad",
-                  1000,
+                  2000,
                 ]}
                 wrapper="span"
                 speed={0}
