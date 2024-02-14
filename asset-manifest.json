@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Urban-Spices-React-App/static/css/main.2cc0e078.css",
-    "main.js": "/Urban-Spices-React-App/static/js/main.6c1b1363.js",
+    "main.css": "/Urban-Spices-React-App/static/css/main.5ffaa7af.css",
+    "main.js": "/Urban-Spices-React-App/static/js/main.6a0ab0eb.js",
     "index.html": "/Urban-Spices-React-App/index.html",
-    "main.2cc0e078.css.map": "/Urban-Spices-React-App/static/css/main.2cc0e078.css.map",
-    "main.6c1b1363.js.map": "/Urban-Spices-React-App/static/js/main.6c1b1363.js.map"
+    "main.5ffaa7af.css.map": "/Urban-Spices-React-App/static/css/main.5ffaa7af.css.map",
+    "main.6a0ab0eb.js.map": "/Urban-Spices-React-App/static/js/main.6a0ab0eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cc0e078.css",
-    "static/js/main.6c1b1363.js"
+    "static/css/main.5ffaa7af.css",
+    "static/js/main.6a0ab0eb.js"
   ]
 }
